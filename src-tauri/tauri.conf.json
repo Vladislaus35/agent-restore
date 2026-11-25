@@ -39,7 +39,7 @@
     "category": "DeveloperTool",
     "shortDescription": "Local-first checkpoint and recovery system for AI coding tools.",
     "longDescription": "Agent Restore is a universal, local-first checkpoint and recovery desktop application for developers working with AI coding agents.",
-    "copyright": "Copyright (c) 2026 Agent Restore Contributors (MIT License)",
+    "copyright": "Copyright (c) 2026 Vladislaus (MIT License)",
     "windows": {
       "nsis": {
         "displayLanguageSelector": false,

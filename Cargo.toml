@@ -1,0 +1,14 @@
+[workspace]
+members = [
+    "crates/agent-restore-core",
+    "src-tauri",
+]
+resolver = "2"
+
+[workspace.package]
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+authors = ["Agent Restore Contributors"]
+repository = "https://github.com/Vladislaus35/agent-restore"
+description = "Universal, local-first checkpoint and recovery system for developers using AI coding agents."

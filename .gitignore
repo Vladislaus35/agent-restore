@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+target/
+src-tauri/target/
+src-tauri/gen/
+
+# Logs & OS files
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor & IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local environment & secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Temporary test outputs
+tmp/
+*.tmp
